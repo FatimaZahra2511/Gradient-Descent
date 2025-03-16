@@ -57,11 +57,3 @@ Iteration 2: x = -2.8, y = 7.9, Gradient = 8.4
 ...
 Local minimum found at: x = -1.67, y = 0
 
-
-
-- 💾 **Upload this README.md to your repository.**
-- 📄 **Push your Python code and report to GitHub.**
-- 🚀 **Share the repository link for review.**  
-
-Let me know if you need further modifications! 🎯🔥
-
